@@ -3,19 +3,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushikakade" alt="khushikakade" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning • Large Language Models (LLMs) • RAG • LangChain • AWS • Docker • System Design**
+- 🌱 I’m currently learning : **Machine Learning • Large Language Models (LLMs) • RAG • LangChain • AWS • Docker • System Design**
 
-- 👯 I’m looking to collaborate on **Open Source AI/ML, Full-Stack, and Cloud-native Projects**
+- 👯 I’m looking to collaborate on : **Open Source AI/ML, Full-Stack, and Cloud-native Projects**
 
-- 🤝 I’m looking for help with **LLMs, RAG Systems, MLOps, and Scalable AI Infrastructure**
+- 🤝 I’m looking for help with : **LLMs, RAG Systems, MLOps, and Scalable AI Infrastructure**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-livid-nu-40.vercel.app/](https://portfolio-livid-nu-40.vercel.app/)
+- 👨‍💻 All of my projects are available at : [https://portfolio-livid-nu-40.vercel.app/](https://portfolio-livid-nu-40.vercel.app/)
 
-- 📫 How to reach me **khushikakade21@gmail.com**
+- 📫 How to reach me : **khushikakade21@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1oRxMzfW3-B_wU1HLpNS-HoDuXpgmFiev](https://drive.google.com/drive/folders/1oRxMzfW3-B_wU1HLpNS-HoDuXpgmFiev)
+- 📄 Know about my experiences : [https://drive.google.com/drive/folders/1oRxMzfW3-B_wU1HLpNS-HoDuXpgmFiev](https://drive.google.com/drive/folders/1oRxMzfW3-B_wU1HLpNS-HoDuXpgmFiev)
 
-- ⚡ Fun fact **I enjoy turning ideas into products more than just writing code.**
+- ⚡ Fun fact : **I enjoy turning ideas into products more than just writing code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
