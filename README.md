@@ -38,7 +38,7 @@ could_use_a_hand_with: [RAG pipelines, MLOps, Scalable AI infrastructure]
 philosophy: "Ideas are cheap. Shipped products aren't."
 ```
 
-📄 &nbsp;[Resume & experience](https://drive.google.com/drive/folders/1oRxMzfW3-B_wU1HLpNS-HoDuXpgmFiev) &nbsp;·&nbsp; 🌐 &nbsp;[Full portfolio](https://portfolio-livid-nu-40.vercel.app/)
+📄 &nbsp;[Resume & experience](https://drive.google.com/drive/folders/1-92UJRC7Bd02C97U3_ikVTa2LZu9EV8h) &nbsp;·&nbsp; 🌐 &nbsp;[Full portfolio](https://portfolio-livid-nu-40.vercel.app/)
 
 <br>
 
