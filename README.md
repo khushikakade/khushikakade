@@ -2,11 +2,11 @@
 <h3 align="center">Software Engineer in the making — building at the edge of AI, cloud & product</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=210&section=header&text=Khushi%20Kakade&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=CS%20Student%20%C2%B7%20AI%2FML%20%C2%B7%20Full-Stack%20%C2%B7%20Cloud&descAlignY=56&descSize=17" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=210&section=header&text=Khushi%20Kakade&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Code.%20Build.%20Ship.%20Repeat.&descAlignY=56&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2600&pause=1000&color=26A69A&center=true&vCenter=true&width=620&lines=I+turn+ideas+into+products%2C+not+just+code.;Currently+training+models+to+spot+ocean+debris+%F0%9F%8C%8A;Always+one+bug+away+from+a+breakthrough." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2600&pause=1000&color=26A69A&center=true&vCenter=true&width=620&lines=I+turn+ideas+into+products%2C+not+just+code.;Part+builder%2C+part+planner%2C+full-time+curious.;Always+one+bug+away+from+a+breakthrough." alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -17,19 +17,18 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khushikakade&label=Profile%20Views&color=26A69A&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=khushikakade&label=Profile%20Views&color=F4C430&style=flat-square"/>
 </p>
 
 <br>
 
 ## 🧭 About Me
 
-I'm a Computer Science student who believes the fastest way to learn something is to **build it, break it, and fix it**. My work sits at the intersection of **AI/ML, cloud infrastructure, and full-stack development** — I care less about writing "clever" code and more about shipping things that actually solve a problem someone has.
-
-Right now, that means everything from OCR tools for accessibility to AI models that screen sonar imagery for marine debris (yes, really — SIH 2026 keeps me busy).
+I'm a Computer Science student who believes the fastest way to learn something is to **build it, break it, and fix it**. My work sits at the intersection of **AI/ML, cloud infrastructure, and full-stack development** — but I've also learned that great software rarely ships without great planning. Somewhere along the way, I picked up a genuine interest in **project and program management** too — coordinating moving pieces, aligning timelines, and turning a scattered idea into a shipped product is its own kind of engineering.
 
 ```yaml
 currently_exploring: [Machine Learning, LLMs, RAG, LangChain, AWS, Docker, System Design]
+also_into: [Project Planning, Program Management, Cross-team Coordination]
 open_to_collaborate_on: [Open-source AI/ML, Full-stack apps, Cloud-native systems]
 could_use_a_hand_with: [RAG pipelines, MLOps, Scalable AI infrastructure]
 philosophy: "Ideas are cheap. Shipped products aren't."
@@ -44,6 +43,17 @@ philosophy: "Ideas are cheap. Shipped products aren't."
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,kotlin,react,nodejs,express,html,css,androidstudio,pytorch,tensorflow,sklearn,pandas,aws,docker,firebase,mongodb,postgres,git,github,vscode&theme=light&perline=11"/>
 </p>
+
+<br>
+
+## 🗂️ Beyond Code — Planning & Execution
+
+Shipping good software isn't just about writing code — it's about **scoping the right problem, sequencing the work, and keeping a team aligned** while building it. I enjoy the planning side just as much as the building side:
+
+- 📋 Breaking down ambiguous problems into clear, trackable milestones
+- 🧩 Coordinating across research, design, and development workstreams
+- ⏱️ Balancing scope, timeline, and quality — especially under tight deadlines
+- 🎯 Translating a rough idea into a structured, presentable execution plan
 
 <br>
 
@@ -123,12 +133,12 @@ My personal portfolio, showcasing projects, skills, and experience in one place.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushikakade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=26A69A&icon_color=26A69A" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushikakade&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=26A69A" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=khushikakade&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=F4C430&icon_color=F4C430&text_color=333333" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushikakade&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=F4C430&text_color=333333" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/26A69A/khushikakade" alt="contribution graph" width="90%"/>
+  <img src="https://ghchart.rshah.org/F4C430/khushikakade" alt="contribution graph" width="90%"/>
 </p>
 
 <br>
