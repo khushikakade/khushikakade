@@ -1,81 +1,167 @@
-# Khushi Kakade👩‍💻
+<h1 align="center">Hey, I'm Khushi 👋</h1>
 
-[![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Khushi%20Kakade&fontSize=48&theme=tokyonight)](https://github.com/khushikakade)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2C5364&height=200&section=header&text=Khushi%20Kakade&fontSize=42&fontColor=F2F7F5&animation=fadeIn&fontAlignY=38&desc=Building%20with%20AI%2C%20Cloud%20%26%20Code&descAlignY=58&descSize=18" width="100%"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=A78BFA&background=FFFFFF00&center=true&vCenter=true&width=560&lines=CS+Student+%7C+Software+Engineer;AI%2FML+%E2%80%A2+LLMs+%E2%80%A2+RAG+%E2%80%A2+Cloud;I+turn+ideas+into+products.)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2500&pause=900&color=2E8B7A&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+CS+Student;AI%2FML+%C2%B7+LLMs+%C2%B7+RAG+%C2%B7+Cloud;Turning+ideas+into+working+products." alt="Typing SVG" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushi-kakade)
-[![Instagram](https://img.shields.io/badge/Instagram-A78BFA?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kakade_khushi)
-[![Email](https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushikakade21@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-livid-nu-40.vercel.app/)
+<p align="center">
+  <a href="https://linkedin.com/in/khushi-kakade"><img src="https://img.shields.io/badge/LinkedIn-2E8B7A?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/kakade_khushi"><img src="https://img.shields.io/badge/Instagram-2E8B7A?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:khushikakade21@gmail.com"><img src="https://img.shields.io/badge/Email-2E8B7A?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://portfolio-livid-nu-40.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2E8B7A?style=flat-square&logo=vercel&logoColor=white" /></a>
+</p>
 
----
+<br>
 
-### 📖 About Me
+## ⌁ About
 
-I'm a **Computer Science student and Software Engineer** who learns by building real projects — passionate about combining **AI, cloud technologies, and modern application development** to solve everyday problems with code.
+CS student and software engineer who learns best by shipping real things. My focus sits at the intersection of **AI/ML, cloud infrastructure, and product-minded full-stack development** — I'd rather build a working prototype than talk theory.
 
-- 🌱 **Currently learning:** Machine Learning • Large Language Models (LLMs) • RAG • LangChain • AWS • Docker • System Design
-- 👯 **Looking to collaborate on:** Open Source AI/ML, Full-Stack, and Cloud-native Projects
-- 🤝 **Looking for help with:** LLMs, RAG Systems, MLOps, and Scalable AI Infrastructure
-- 📄 **Experience:** [View my resume/experience](https://drive.google.com/drive/folders/1oRxMzfW3-B_wU1HLpNS-HoDuXpgmFiev)
-- ⚡ **Fun fact:** I enjoy turning ideas into products more than just writing code.
+```
+const khushi = {
+  currentlyExploring: ["Machine Learning", "LLMs", "RAG", "LangChain", "AWS", "Docker", "System Design"],
+  openToCollaborate: ["Open-source AI/ML", "Full-Stack apps", "Cloud-native systems"],
+  wantsHelpWith: ["RAG pipelines", "MLOps", "Scalable AI infra"],
+  motto: "Ideas are cheap. Shipped products aren't."
+};
+```
 
----
+📄 &nbsp;[My experience & resume](https://drive.google.com/drive/folders/1oRxMzfW3-B_wU1HLpNS-HoDuXpgmFiev) &nbsp;|&nbsp; 🌐 &nbsp;[Full portfolio](https://portfolio-livid-nu-40.vercel.app/)
 
-### 🛠️ Skills & Expertise
+<br>
 
-| Category | Tech Stack & Tools |
-|---|---|
-| **Languages** | ![Java](https://img.shields.io/badge/Java-A78BFA?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-A78BFA?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A78BFA?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-A78BFA?style=flat-square&logo=cplusplus&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-A78BFA?style=flat-square&logo=kotlin&logoColor=white) |
-| **Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-A78BFA?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-A78BFA?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-A78BFA?style=flat-square&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/React-A78BFA?style=flat-square&logo=react&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-A78BFA?style=flat-square&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-A78BFA?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-A78BFA?style=flat-square&logo=express&logoColor=white) |
-| **AI / ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-A78BFA?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-A78BFA?style=flat-square&logo=pytorch&logoColor=white) ![scikit--learn](https://img.shields.io/badge/scikit--learn-A78BFA?style=flat-square&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-A78BFA?style=flat-square&logo=pandas&logoColor=white) |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-A78BFA?style=flat-square&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-A78BFA?style=flat-square&logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-A78BFA?style=flat-square&logo=firebase&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-A78BFA?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-A78BFA?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-A78BFA?style=flat-square&logo=postgresql&logoColor=white) |
-| **Mobile & Tools** | ![Android](https://img.shields.io/badge/Android-A78BFA?style=flat-square&logo=android&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-A78BFA?style=flat-square&logo=electron&logoColor=white) ![Git](https://img.shields.io/badge/Git-A78BFA?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-A78BFA?style=flat-square&logo=github&logoColor=white) |
+## ⌁ Stack
 
----
+<table>
+<tr>
+<td valign="top" width="50%">
 
-### 📌 Projects & Creations
+**Languages**
+<br>
+<img src="https://img.shields.io/badge/Python-2E8B7A?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-2E8B7A?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/C++-2E8B7A?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C-2E8B7A?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-2E8B7A?style=flat-square&logo=kotlin&logoColor=white"/>
 
-| Project | Description | Tech Stack | Link |
-|---|---|---|---|
-| **🍽️ DishDashAppDBMS** | A DBMS-driven food ordering application project. | ![Python](https://img.shields.io/badge/Python-A78BFA?style=flat-square) | [Repository](https://github.com/khushikakade/DishDashAppDBMS) |
-| **💸 CashPulse-AI** | An AI-powered finance/expense insight tool. | ![TypeScript](https://img.shields.io/badge/TypeScript-A78BFA?style=flat-square) | [Repository](https://github.com/khushikakade/CashPulse-AI) |
-| **👁️ VisionAid-OCR** | An OCR-based assistive tool that reads printed text aloud for visually impaired users. | ![Python](https://img.shields.io/badge/Python-A78BFA?style=flat-square) | [Repository](https://github.com/khushikakade/VisionAid-OCR) |
-| **🛡️ Code RED Website** | Official website for the Code RED Cybersecurity Club, DES Pune University. | ![HTML5](https://img.shields.io/badge/HTML5-A78BFA?style=flat-square) | [Repository](https://github.com/khushikakade/code-red-website) |
-| **🎓 AgeAdaptiveLearner** | A learning platform that adapts content delivery based on the learner's age group. | ![TypeScript](https://img.shields.io/badge/TypeScript-A78BFA?style=flat-square) | [Repository](https://github.com/khushikakade/AgeAdaptiveLearner) |
-| **🌊 VisionGuard** | AI-powered visual detection system. | ![Python](https://img.shields.io/badge/Python-A78BFA?style=flat-square) | [Repository](https://github.com/khushikakade/VisionGuard) |
+**AI / ML**
+<br>
+<img src="https://img.shields.io/badge/PyTorch-2E8B7A?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-2E8B7A?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-2E8B7A?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-2E8B7A?style=flat-square&logo=pandas&logoColor=white"/>
 
----
+</td>
+<td valign="top" width="50%">
 
-### 👥 Experience & Leadership
+**Web & Mobile**
+<br>
+<img src="https://img.shields.io/badge/React-2E8B7A?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/React_Native-2E8B7A?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-2E8B7A?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-2E8B7A?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Android-2E8B7A?style=flat-square&logo=android&logoColor=white"/>
 
-- 🛡️ **Member** — *Code RED Cybersecurity Club*, DES Pune University
-- 💡 **Active contributor** to AI/ML and full-stack open-source collaborations
+**Cloud, Data & Tools**
+<br>
+<img src="https://img.shields.io/badge/AWS-2E8B7A?style=flat-square&logo=amazonwebservices&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2E8B7A?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-2E8B7A?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-2E8B7A?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-2E8B7A?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Git-2E8B7A?style=flat-square&logo=git&logoColor=white"/>
 
----
+</td>
+</tr>
+</table>
 
-### 📅 Contribution Grid
+<br>
 
-[![Khushi's Contribution Grid](https://ghchart.rshah.org/A78BFA/khushikakade)](https://github.com/khushikakade)
+## ⌁ Things I've Built
 
----
+<table>
+<tr>
+<td width="33%" valign="top">
 
-### 📊 GitHub Stats
+**🍽️ DishDashAppDBMS**
+<br>
+Food-ordering system built around a relational database backend.
+<br>
+`Python`
+<br>
+[→ repo](https://github.com/khushikakade/DishDashAppDBMS)
 
-[![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khushikakade&show_icons=true&theme=default&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=333333&bg_color=FFFFFF00)](https://github.com/khushikakade)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khushikakade&background=00000000&title=A78BFA&currStreakLabel=A78BFA&currStreakNum=A78BFA&fire=A78BFA&sideNums=A78BFA&sideLabels=A78BFA&dates=967BB6&ring=A78BFA&stroke=2e2040&hide_border=false)](https://github.com/khushikakade)
+</td>
+<td width="33%" valign="top">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khushikakade&layout=compact&theme=default&hide_border=true&title_color=A78BFA&text_color=333333&bg_color=FFFFFF00)](https://github.com/khushikakade)
+**💸 CashPulse-AI**
+<br>
+An AI-assisted tool for tracking and surfacing insight from personal finances.
+<br>
+`TypeScript`
+<br>
+[→ repo](https://github.com/khushikakade/CashPulse-AI)
 
----
+</td>
+<td width="33%" valign="top">
 
-### 🏆 Achievements
+**👁️ VisionAid-OCR**
+<br>
+OCR-based assistive tool that reads printed text aloud for visually impaired users.
+<br>
+`Python`
+<br>
+[→ repo](https://github.com/khushikakade/VisionAid-OCR)
 
-![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png) x2
-![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 
----
+**🛡️ Code RED Website**
+<br>
+Official site for the Code RED Cybersecurity Club at DES Pune University.
+<br>
+`HTML/CSS`
+<br>
+[→ repo](https://github.com/khushikakade/code-red-website)
 
-*"I enjoy turning ideas into products more than just writing code."*
+</td>
+<td width="33%" valign="top">
+
+**🎓 AgeAdaptiveLearner**
+<br>
+A learning platform that adapts content delivery to the learner's age group.
+<br>
+`TypeScript`
+<br>
+[→ repo](https://github.com/khushikakade/AgeAdaptiveLearner)
+
+</td>
+<td width="33%" valign="top">
+
+**🌊 VisionGuard**
+<br>
+AI-powered visual detection system.
+<br>
+`Python`
+<br>
+[→ repo](https://github.com/khushikakade/VisionGuard)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## ⌁ Where I've Been Involved
+
+- 🛡️ Member — **Code RED Cybersecurity Club**, DES Pune University
+- 💻 Regular contributor to AI/ML and full-stack open-source builds
+
+<br>
+
+## ⌁ Activity
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/2E8B7A/khushikakade" alt="contribution graph" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khushikakade&show_icons=true&theme=graywhite&hide_border=true&title_color=2E8B7A&icon_color=2E8B7A&text_color=444444&bg_color=FFFFFF00" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushikakade&layout=compact&theme=graywhite&hide_border=true&title_color=2E8B7A&text_color=444444&bg_color=FFFFFF00" height="165"/>
+</p>
+
+<br>
+
+<p align="center">
+  <sub>"Ideas are cheap. Shipped products aren't." — building one repo at a time.</sub>
+</p>
