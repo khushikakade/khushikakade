@@ -135,41 +135,6 @@ My personal portfolio, showcasing projects, skills, and experience in one place.
 
 <br>
 
-## 🤝 Team & Collaborative Projects
-
-Some of my favorite work has happened in teams - here are a few builds where I contributed as part of a group:
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔍 MindForge
-An AI-powered visual inspection platform for manufacturing defect analysis, built using computer vision and anomaly detection.
-<br><br>
-![JavaScript](https://img.shields.io/badge/-JavaScript-F4C430?style=flat-square)
-<br>
-Team build with Suveer Upasani
-<br>
-[View repository →](https://github.com/Suveer-Upasani/MindForge)
-
-</td>
-<td width="50%" valign="top">
-
-### ✈️ TravelGenie
-A full-stack travel itinerary planning platform for generating destinations, managing itineraries, and user authentication.
-<br><br>
-![TypeScript](https://img.shields.io/badge/-TypeScript-F4C430?style=flat-square)
-<br>
-Team build with Neha Chavan
-<br>
-[View repository →](https://github.com/Nehachavan03/TravelGenie)
-
-</td>
-</tr>
-</table>
-
-<br>
-
 ## 📊 GitHub Activity
 
 <p align="center">
