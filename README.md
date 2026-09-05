@@ -1,107 +1,118 @@
-<h1 align="center">yo, it's Khushi 🚀</h1>
+<h1 align="center">Hi, I'm Khushi 👋</h1>
+<h3 align="center">Software Engineer in the making — building at the edge of AI, cloud & product</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FF6B6B,50:FFD93D,100:6BCB77&height=200&section=header&text=Khushi%20Kakade&fontSize=46&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=professional%20bug%20creator%20%26%20fixer&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=210&section=header&text=Khushi%20Kakade&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=CS%20Student%20%C2%B7%20AI%2FML%20%C2%B7%20Full-Stack%20%C2%B7%20Cloud&descAlignY=56&descSize=17" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2200&pause=700&color=FF6B6B&center=true&vCenter=true&width=650&multiline=true&lines=console.log(%22hello%2C+world%22)%3B;training+models+to+find+trash+in+the+ocean+%F0%9F%8C%8A;yes%2C+it%27s+for+SIH+%F0%9F%98%85;send+coffee+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2600&pause=1000&color=26A69A&center=true&vCenter=true&width=620&lines=I+turn+ideas+into+products%2C+not+just+code.;Currently+training+models+to+spot+ocean+debris+%F0%9F%8C%8A;Always+one+bug+away+from+a+breakthrough." alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/khushi-kakade"><img src="https://img.shields.io/badge/LinkedIn-FF6B6B?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/kakade_khushi"><img src="https://img.shields.io/badge/Instagram-FFD93D?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:khushikakade21@gmail.com"><img src="https://img.shields.io/badge/Email-6BCB77?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://portfolio-livid-nu-40.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4D96FF-4D96FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/khushi-kakade"><img src="https://img.shields.io/badge/LinkedIn-1A2980?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/kakade_khushi"><img src="https://img.shields.io/badge/Instagram-26A69A?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:khushikakade21@gmail.com"><img src="https://img.shields.io/badge/Email-1A2980?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://portfolio-livid-nu-40.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-26A69A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khushikakade&label=profile+visitors&color=ff6b6b&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=khushikakade&label=Profile%20Views&color=26A69A&style=flat-square"/>
 </p>
 
 <br>
 
-## 🎭 quick facts about me
+## 🧭 About Me
+
+I'm a Computer Science student who believes the fastest way to learn something is to **build it, break it, and fix it**. My work sits at the intersection of **AI/ML, cloud infrastructure, and full-stack development** — I care less about writing "clever" code and more about shipping things that actually solve a problem someone has.
+
+Right now, that means everything from OCR tools for accessibility to AI models that screen sonar imagery for marine debris (yes, really — SIH 2026 keeps me busy).
 
 ```yaml
-name: Khushi Kakade
-role: CS student pretending to know what she's doing (she does)
-superpower: turning 2am panic into working code by 2:15am
-currently_debugging: [life, LLMs, that one API that never returns what the docs say]
-weapons_of_choice: [Python, React, whatever Stack Overflow tells me to use]
-current_mood: "it works on my machine ¯\\_(ツ)_/¯"
-fun_fact: I enjoy turning ideas into products more than just writing code
+currently_exploring: [Machine Learning, LLMs, RAG, LangChain, AWS, Docker, System Design]
+open_to_collaborate_on: [Open-source AI/ML, Full-stack apps, Cloud-native systems]
+could_use_a_hand_with: [RAG pipelines, MLOps, Scalable AI infrastructure]
+philosophy: "Ideas are cheap. Shipped products aren't."
 ```
 
-🌱 **learning right now:** Machine Learning • LLMs • RAG • LangChain • AWS • Docker • System Design (send help)
-👯 **wanna collab on:** Open-source AI/ML, full-stack, cloud-native stuff
-🤝 **could use help with:** RAG pipelines that actually behave, MLOps, not breaking prod
-📄 **the "serious" version of me:** [resume/experience here](https://drive.google.com/drive/folders/1oRxMzfW3-B_wU1HLpNS-HoDuXpgmFiev)
+📄 &nbsp;[Resume & experience](https://drive.google.com/drive/folders/1oRxMzfW3-B_wU1HLpNS-HoDuXpgmFiev) &nbsp;·&nbsp; 🌐 &nbsp;[Full portfolio](https://portfolio-livid-nu-40.vercel.app/)
 
 <br>
 
-## 🛠️ my toolbox (aka things I've broken and fixed enough times to be "good" at)
+## 🧰 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,kotlin,react,nodejs,express,html,css,androidstudio,pytorch,tensorflow,sklearn,pandas,aws,docker,firebase,mongodb,postgres,git,github,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,kotlin,react,nodejs,express,html,css,androidstudio,pytorch,tensorflow,sklearn,pandas,aws,docker,firebase,mongodb,postgres,git,github,vscode&theme=light&perline=11"/>
 </p>
 
 <br>
 
-## 🏗️ stuff I've actually shipped
+## 🚀 Things I've Built
 
 <table>
 <tr>
-<td width="50%">
-
-### 🍽️ DishDashAppDBMS
-A food-ordering app held together by a DBMS backend and hope.
-<br><br>
-`Python` &nbsp;|&nbsp; [peek at the code →](https://github.com/khushikakade/DishDashAppDBMS)
-
-</td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💸 CashPulse-AI
-AI that watches your spending so you don't have to feel bad about it alone.
+An AI-assisted expense tracker that surfaces spending insights instead of just spreadsheets.
 <br><br>
-`TypeScript` &nbsp;|&nbsp; [peek at the code →](https://github.com/khushikakade/CashPulse-AI)
+![TypeScript](https://img.shields.io/badge/-TypeScript-1A2980?style=flat-square)
+<br>
+[View repository →](https://github.com/khushikakade/CashPulse-AI)
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 👁️ VisionAid-OCR
-Turns printed text into speech for visually impaired users — genuinely one of my favorites.
+An OCR-based assistive tool that reads printed text aloud for visually impaired users.
 <br><br>
-`Python` &nbsp;|&nbsp; [peek at the code →](https://github.com/khushikakade/VisionAid-OCR)
-
-</td>
-<td width="50%">
-
-### 🛡️ Code RED Website
-The official site for my college's cybersecurity club. No, I did not hack it. Yes, I could.
-<br><br>
-`HTML/CSS` &nbsp;|&nbsp; [peek at the code →](https://github.com/khushikakade/code-red-website)
+![Python](https://img.shields.io/badge/-Python-1A2980?style=flat-square)
+<br>
+[View repository →](https://github.com/khushikakade/VisionAid-OCR)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎓 AgeAdaptiveLearner
-A learning platform that adapts to how old you are, unlike me emotionally.
+### 🍽️ DishDashAppDBMS
+A full food-ordering application built around a relational database design.
 <br><br>
-`TypeScript` &nbsp;|&nbsp; [peek at the code →](https://github.com/khushikakade/AgeAdaptiveLearner)
+![Python](https://img.shields.io/badge/-Python-1A2980?style=flat-square)
+<br>
+[View repository →](https://github.com/khushikakade/DishDashAppDBMS)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+
+### 🎓 AgeAdaptiveLearner
+A learning platform that adapts content delivery based on the learner's age group.
+<br><br>
+![TypeScript](https://img.shields.io/badge/-TypeScript-1A2980?style=flat-square)
+<br>
+[View repository →](https://github.com/khushikakade/AgeAdaptiveLearner)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🌊 VisionGuard
-AI-powered visual detection — basically teaching a computer to actually pay attention.
+An AI-powered visual detection system for real-time object recognition.
 <br><br>
-`Python` &nbsp;|&nbsp; [peek at the code →](https://github.com/khushikakade/VisionGuard)
+![Python](https://img.shields.io/badge/-Python-1A2980?style=flat-square)
+<br>
+[View repository →](https://github.com/khushikakade/VisionGuard)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Portfolio
+My personal portfolio, showcasing projects, skills, and experience in one place.
+<br><br>
+![CSS](https://img.shields.io/badge/-CSS-1A2980?style=flat-square)
+<br>
+[View repository →](https://github.com/khushikakade/Portfolio)
 
 </td>
 </tr>
@@ -109,39 +120,28 @@ AI-powered visual detection — basically teaching a computer to actually pay at
 
 <br>
 
-## 🎖️ places I show up
-
-- 🛡️ Member, **Code RED Cybersecurity Club** — DES Pune University
-- 💻 Chronically online contributing to AI/ML + full-stack open-source projects
-
-<br>
-
-## 📈 the receipts (github stats)
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushikakade&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushikakade&theme=radical&hide_border=true&background=00000000" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=khushikakade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=26A69A&icon_color=26A69A" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushikakade&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=26A69A" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushikakade&layout=compact&theme=radical&hide_border=true&bg_color=00000000" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/FF6B6B/khushikakade" alt="contribution graph" width="90%"/>
+  <img src="https://ghchart.rshah.org/26A69A/khushikakade" alt="contribution graph" width="90%"/>
 </p>
 
 <br>
 
-## 🏆 achievement unlocked
+## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="70"/>
-  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="70"/>
+<p align="left">
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="64"/>
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="64"/>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=3000&pause=1000&color=999999&center=true&vCenter=true&width=500&lines=thanks+for+scrolling+this+far+%F0%9F%92%9C;now+go+build+something+cool" />
+  <i>"I enjoy turning ideas into products more than just writing code."</i>
 </p>
